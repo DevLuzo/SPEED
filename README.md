@@ -1,5 +1,5 @@
 
-> 이 페이지를 [https://devluzo.github.io/speed/](https://devluzo.github.io/speed/)으로 열기
+> 이 페이지를 [https://devluzo.github.io/SPEED/)으로 열기
 
 ## 확장으로 사용
 
